@@ -5,25 +5,25 @@
 ---
 
 ## Problem Understanding
-**What the problem is asking:** [Explain in your own words]
+**What the problem is asking:** to design a basic agent based game 
 
-**Key concepts involved:** [List the main ideas/algorithms needed]
+**Key concepts involved:** oops
 
-**My approach:** [High-level strategy you chose]
+**My approach:** 
 
 ---
 
 ##  Conceptual Learning
 
-### **New Concepts I Discovered**
-- **[Concept Name]:** [What it is and why it's useful]
-- **[Another Concept]:** [Brief explanation and application]
+### **New Concepts I Discovered** 
+- **[random]:** randomizing using time and cstlib 
+- **[Another Concept]:** 
 
 ### **How I Applied These Concepts**
-[Explain how you used the concepts to solve the problem]
+in speed draw , was also planning in using for aiduel
 
 ### **Real-World Connections**
-[Where might you see this problem or similar concepts in real applications?]
+clair obscure :expedition 33
 
 
 
